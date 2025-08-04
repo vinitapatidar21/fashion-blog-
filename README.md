@@ -17,6 +17,9 @@ A stylish blog website to showcase the latest trends in women’s fashion. Built
 
 ![Blog Screenshot](https://github.com/vinitapatidar21/fashion-blog-/assets/YOUR_IMAGE_LINK_HERE.png)
 
+<img width="1919" height="731" alt="image" src="https://github.com/user-attachments/assets/97687657-ad51-4417-88d1-0fc314415715" />
+
+
 ---
 
 ## 🛠 Tech Stack
